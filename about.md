@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Lars Erik.
 
-### More Information
+Software engineer, creative technologist, indoor enthusiast, avid user of GIFs. Keeping it sensible since 1993.
 
-A place to include any other types of information that you'd like to include about yourself.
+- 💻 &nbsp;&nbsp;&nbsp;&nbsp; I'm currently working in the Norwegian Tax Administration (Skatteetaten) as a full-stack developer (ReactJS and Java / Kotlin).
+- 💡 &nbsp;&nbsp;&nbsp;&nbsp; I'm interested in programming, electronics and technology in general.
+- 🎓 &nbsp;&nbsp;&nbsp;&nbsp; I have a masters degree in informatics, specializing in programming and networks from the University of Oslo (UiO).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[larserik.storbukas@gmail.com](mailto:larserik.storbukas@gmail.com)
