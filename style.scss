@@ -276,6 +276,17 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.layout {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  padding-bottom: 150px;
+  box-sizing: border-box;
 }
 
 footer {
