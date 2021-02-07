@@ -289,6 +289,10 @@ nav {
   box-sizing: border-box;
 }
 
+.layout-content {
+  flex: 1 auto;
+}
+
 footer {
   padding: 20px 0;
   text-align: center;
