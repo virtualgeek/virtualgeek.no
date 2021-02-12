@@ -9,9 +9,6 @@
 <h4 align="center">A website for <a href="https://virtualgeek.no/" target="_blank">Virtual Geek</a>.</h4>
 
 <p align="center">
-  <a href="https://github.com/virtualgeek/virtualgeek.no/">
-    <img src="https://github.com/virtualgeek/virtualgeek.no/workflows/GithubPages/badge.svg">
-  </a>
   <a href="https://virtualgeek.no/">
     <img src="https://img.shields.io/website-up-down-green-red/http/virtualgeek.no.svg">
   </a>
