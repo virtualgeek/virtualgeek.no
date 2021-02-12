@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://leitemods.no/">
-    <img src="https://avatars.githubusercontent.com/u/3038307" alt="Leitemods" width="500">
+    <img src="https://avatars.githubusercontent.com/u/3038307" alt="Leitemods" width="200">
   </a>
   <br>
 </h1>
@@ -43,7 +43,7 @@ Eventually, you can [fork](https://help.github.com/en/github/getting-started-wit
 
 ## Questions?
 
-[Open an Issue](https://github.com/storbukas/virtualgeek.no/issues/new) and let's chat!
+[Open an Issue](https://github.com/virtualgeek/virtualgeek.no/issues/new) and let's chat!
 
 ## Contributing
 
