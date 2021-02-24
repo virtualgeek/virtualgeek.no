@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World
+author: storbukas
 ---
 
 This website is intended for publishing articles and tutorials on topics about programming, electronics and technology in general - *and* **everything** in between.
